@@ -27,8 +27,9 @@ This section showcases my expertise in machine learning and AI, developed throug
 ### 📊 Statistics & Data Visualization
 This section demonstrates my ability to extract insights through statistical analysis and impactful visualizations across sports, social issues, and business domains:
 - **[Gun Violence Data Analysis](https://steadows.github.io/240612_meadoant_final_project.html) 🔫**: Explored U.S. gun violence (2014–2017) with geospatial maps and statistical inference, finding a significant association between poverty and death rates (p = 0.033).
+- **[Order History DFA](https://github.com/steadows/Data-Science-Portfolio/blob/main/Statistics%20%26%20Data%20Visualization/DFA%20Timeseries%20Model%20Comparison/dfa-performance-comparison.ipynb): Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
 - **[Brazilian Jiu Jitsu ADCC Analysis (Tableau)](https://github.com/steadows/Data-Science-Portfolio/tree/main/Statistics%20%26%20Data%20Visualization/Brazilian%20Jiu%20Jitsu%20ADCC%20Analysis) 🥋**: Analyzed BJJ competition trends with Tableau dashboards, revealing the rise of leg submissions and the advantage of specialized techniques.
-- **Order History DFA: Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
+
 
 **Key Skills**: Statistical inference (t-tests, bootstrapping), time series analysis (DFA), interactive visualization (Tableau, Leaflet), and data preprocessing.
 
