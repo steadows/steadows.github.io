@@ -1,7 +1,7 @@
 # Hi, I'm Steve Meadows 👋
 
 ## 🎓 About Me
-I'm a **graduate student** at **Grand Valley State University**, pursuing an **M.S. in Data Science and Analytics**, expected to graduate in **Sring 2026**. I’m deeply passionate about leveraging **machine learning**, **data visualization**, **statistical analysis**, and **database engineering** to solve complex problems across diverse domains. My curiosity drives me to constantly explore innovative ways to apply my wide range of tools and experience—spanning programming, statistical techniques, and database systems—to uncover insights and create impactful solutions. As an outgoing individual, I thrive on collaboration, having worked cross-functionally to address challenges and communicate complex ideas clearly to both technical and non-technical stakeholders.
+I'm a **graduate student** at **Grand Valley State University**, pursuing an **M.S. in Data Science and Analytics**, expected to graduate in **Sring 2026**. I’m deeply passionate about leveraging **machine learning**, **data visualization**, **statistical analysis**, and **database engineering** to solve complex problems across diverse domains. My curiosity drives me to constantly explore innovative ways to apply my wide range of tools and experience—spanning programming, statistical and machine learning techniques, and database systems—to uncover insights and create impactful solutions. As an outgoing individual, I thrive on collaboration, having worked cross-functionally to address challenges and communicate complex ideas clearly to both technical and non-technical stakeholders.
 
 ## 🛠️ Skills & Technologies
 - **Programming (Proficient):** Python, R, SQL, Java, C  
@@ -23,6 +23,14 @@ This section showcases my expertise in machine learning and AI, developed throug
 - **[Wine AI](https://steadows.github.io/WineAI.html): Predicting Wine Tasting Notes 🍷**: Forecasted tasting note probabilities with a Transformer model, achieving an MAE of 0.01873 through advanced feature engineering (DistilBERT, KMeans) and optimized inference by adapting graph-based algorithms for efficient data processing.
 
 **Key Skills**: Algorithm development (KNN, FNN, VAE, Transformers), feature engineering (PCA, DistilBERT), hyperparameter tuning (Bayesian optimization, Grid Search), interpretability (Factor Analysis, SHAP), and performance optimization using HPC and parallel computing techniques.
+
+### 📊 Statistics & Data Visualization
+This section demonstrates my ability to extract insights through statistical analysis and impactful visualizations across sports, social issues, and business domains:
+- **[Gun Violence Data Analysis](https://steadows.github.io/240612_meadoant_final_project.html) 🔫**: Explored U.S. gun violence (2014–2017) with geospatial maps and statistical inference, finding a significant association between poverty and death rates (p = 0.033).
+- **[Brazilian Jiu Jitsu ADCC Analysis (Tableau)](https://github.com/steadows/Data-Science-Portfolio/tree/main/Statistics%20%26%20Data%20Visualization/Brazilian%20Jiu%20Jitsu%20ADCC%20Analysis) 🥋**: Analyzed BJJ competition trends with Tableau dashboards, revealing the rise of leg submissions and the advantage of specialized techniques.
+- **Order History DFA: Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
+
+**Key Skills**: Statistical inference (t-tests, bootstrapping), time series analysis (DFA), interactive visualization (Tableau, Leaflet), and data preprocessing.
 
 ### 🖥️ Computer Science
 This section highlights my expertise in **data structures and algorithms**, **discrete mathematics**, **operating systems**, and **software development**, with projects in Java, Python, C, and Android:
@@ -46,14 +54,6 @@ This section showcases my expertise in **database modeling**, **design**, and **
 **Additional Experience**: Used Redis for caching, Neo4j for graph database queries.
 
 **Key Skills**: Database design (SQL, NoSQL), CRUD operations, cloud integration (AWS).
-
-### 📊 Statistics & Data Visualization
-This section demonstrates my ability to extract insights through statistical analysis and impactful visualizations across sports, social issues, and business domains:
-- **Brazilian Jiu Jitsu ADCC Analysis (Tableau) 🥋**: Analyzed BJJ competition trends with Tableau dashboards, revealing the rise of leg submissions and the advantage of specialized techniques.
-- **Gun Violence Data Analysis 🔫**: Explored U.S. gun violence (2014–2017) with geospatial maps and statistical inference, finding a significant association between poverty and death rates (p = 0.033).
-- **Order History DFA: Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
-
-**Key Skills**: Statistical inference (t-tests, bootstrapping), time series analysis (DFA), interactive visualization (Tableau, Leaflet), and data preprocessing.
 
 ## 📚 Learning & Growth
 I’m constantly exploring new methodologies and staying updated with advancements in **AI, ML, data science**, and **software development**. With an optimizer's mindset, I’m driven to enhance efficiency and performance in every project, seeking innovative ways to refine algorithms, streamline processes, and maximize impact. I enjoy **collaborating on open-source projects** and contributing to the data science community, sharing insights and solutions to advance collective knowledge in the field.
