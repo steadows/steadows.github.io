@@ -17,12 +17,17 @@ I'm a **graduate student** at **Grand Valley State University**, pursuing an **M
 
 ### 🧠 Machine Learning & AI
 This section showcases my expertise in machine learning and AI, developed through Kaggle Challenges during my coursework in Grand Valley’s CIS 678 Machine Learning course. I collaborated with Lauryn Davis and Brooke Walters, achieving **1st place** in Challenges 1 and 2, and **2nd place** in Challenges 3 and 4. To optimize performance, I leveraged **HPC methods**, **distributed and parallel processing**, and borrowed computer science techniques like efficient data structures and algorithm optimization to enhance model training and inference. Projects include:
-- **[kNN Recommender System](https://steadows.github.io/kNN_Recommender_System_Birds.html): Identifying Underrepresented Bird Species 🐦**: Predicted bird species presence using KNN, achieving an MAE of 0.0357 (25.3% below the threshold) with a 60% runtime reduction via parallel processing with `doParallel` across multiple cores.
-- **[Neural Network CITE](https://steadows.github.io/NeuralNetCITE.html): Abstract Neural Evolution for ADT Prediction 🧬**: Predicted ADT expression with an FNN, reaching a Pearson correlation of 0.872 using Bayesian optimization (`ParBayesianOptimization`) and distributed processing to accelerate hyperparameter tuning.
-- **[Cross-Modal Variational Autoencoder](https://ldavis9997.shinyapps.io/Biological_VAE/) 🧬**: Developed a VAE for cross-modal prediction, achieving a Pearson correlation of 0.75 with WGAN-GP and multi-objective optimization, utilizing distributed training across GPUs to manage computational complexity.
-- **[Wine AI](https://steadows.github.io/WineAI.html): Predicting Wine Tasting Notes 🍷**: Forecasted tasting note probabilities with a Transformer model, achieving an MAE of 0.01873 through advanced feature engineering (DistilBERT, KMeans) and optimized inference by adapting graph-based algorithms for efficient data processing.
+- **[kNN Recommender System](https://steadows.github.io/kNN_Recommender_System_Birds.html): Identifying Underrepresented Bird Species 🐦**: Predicted bird species presence using KNN, achieving an MAE of 0.0357 (25.3% below the threshold) with a 60% runtime reduction via parallel processing with `doParallel` across multiple cores. This project not only came in 1st place within our classwide competition, but our MAE set the University wide accuracy score by orders of magnitude.
+- **[Neural Network CITE](https://steadows.github.io/NeuralNetCITE.html): Abstract Neural Evolution for ADT Prediction 🧬**: Predicted ADT expression with an FNN, reaching a Pearson correlation of 0.872 using Bayesian optimization (`ParBayesianOptimization`) and distributed processing to accelerate hyperparameter tuning. This feed forward neural network model earned us 1st place in class-wide competition.
+- **[Cross-Modal Variational Autoencoder](https://ldavis9997.shinyapps.io/Biological_VAE/) 🧬**: Developed a VAE for cross-modal prediction, achieving a Pearson correlation of 0.75 with WGAN-GP and multi-objective optimization, utilizing distributed training across GPUs to manage computational complexity. Although this VAE deep neural network earned us 2nd place in classwide competition, our use of multiple discriminators and leveraging of Multiobjective Bayesian Optimization set our team apart in terms of complexity and originality, sparking a deep interest in generative AI.
+- **[Wine AI](https://steadows.github.io/WineAI.html): Predicting Wine Tasting Notes 🍷**: Forecasted tasting note probabilities with a Transformer model, achieving an MAE of 0.01873 through advanced feature engineering (DistilBERT, KMeans) and optimized inference by adapting graph-based algorithms for efficient data processing. This project features a custom built PyTorch self-attention encoder transformer model which earned 2nd place in class-wide competition.
+
 
 **Key Skills**: Algorithm development (KNN, FNN, VAE, Transformers), feature engineering (PCA, DistilBERT), hyperparameter tuning (Bayesian optimization, Grid Search), interpretability (Factor Analysis, SHAP), and performance optimization using HPC and parallel computing techniques.
+
+## **Update:** Summer '25
+
+Following exceptional performance and demonstrated proficiency in machine learning engineering, I was selected by the University as the lead machine learning engineer to design a predictive model for a wine industry startup. The intellectual property we are developing has guided me through an exciting journey, leveraging tools like LangChain and CrewAI to build AI agents that extract structured data from unstructured sources. Additionally, I am training Named Entity Recognition models for NLP to enhance data collection. The collected data will train custom-designed models for consumer-facing software, set to launch in the coming months.
 
 ### 📊 Statistics & Data Visualization
 This section demonstrates my ability to extract insights through statistical analysis and impactful visualizations across sports, social issues, and business domains:
@@ -30,11 +35,19 @@ This section demonstrates my ability to extract insights through statistical ana
 - **[Order History DFA](https://github.com/steadows/Data-Science-Portfolio/blob/main/Statistics%20%26%20Data%20Visualization/DFA%20Timeseries%20Model%20Comparison/dfa-performance-comparison.ipynb): Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
 - **[Brazilian Jiu Jitsu ADCC Analysis (Tableau)](https://github.com/steadows/Data-Science-Portfolio/tree/main/Statistics%20%26%20Data%20Visualization/Brazilian%20Jiu%20Jitsu%20ADCC%20Analysis) 🥋**: Analyzed BJJ competition trends with Tableau dashboards, revealing the rise of leg submissions and the advantage of specialized techniques.
 
-
 **Key Skills**: Statistical inference (t-tests, bootstrapping), time series analysis (DFA), interactive visualization (Tableau, Leaflet), and data preprocessing.
 
+### 🗄️ Databases
+This section showcases my expertise in **database modeling**, **design**, and **manipulation** across relational, NoSQL, key-value, and graph paradigms:
+- **[Gym Management Database](https://github.com/steadows/Data-Science-Portfolio/tree/main/Databases/Gym%20Management%20Database)**: An Oracle SQL relational database for managing gym operations, with complex queries for trend analysis.
+- **[Electric Vehicle Database Management](https://github.com/steadows/Data-Science-Portfolio/tree/main/Databases/PyMongo%20CRUD%20Ops)**: A MongoDB project with Python (PyMongo) for CRUD operations.
+
+**Additional Experience**: Used Redis for caching, Neo4j for graph database queries.
+
+**Key Skills**: Database design (SQL, NoSQL), CRUD operations, cloud integration (AWS).
+
 ### 🖥️ Computer Science
-This section highlights my expertise in **data structures and algorithms**, **discrete mathematics**, **operating systems**, and **software development**, with projects in Java, Python, C, and Android:
+This section highlights my expertise in **data structures and algorithms**, **discrete mathematics**, **operating systems**, and **software development**, with projects in Java, Python, C, and Android. These are personal and university projects written during my undergrad which can be found [here](https://github.com/steadows/Data-Science-Portfolio/tree/main/Computer%20Science%20):
 - **Dominating Set Finder**: A Java implementation of a greedy algorithm for minimum dominating sets in graphs.
 - **Havel-Hakimi Algorithm**: A Python project to validate graph degree sequences using recursive methods.
 - **Floyd-Warshall Algorithm**: A Python dynamic programming solution for all-pairs shortest paths in graphs.
@@ -46,15 +59,6 @@ This section highlights my expertise in **data structures and algorithms**, **di
 - **Java Workout Generator**: A Java app generating randomized home gym workouts, created during COVID lockdowns.
 
 **Key Skills**: Graph algorithms, multithreading, IPC, mobile development, and object-oriented design.
-
-### 🗄️ Databases
-This section showcases my expertise in **database modeling**, **design**, and **manipulation** across relational, NoSQL, key-value, and graph paradigms:
-- **Gym Management Database**: An Oracle SQL relational database for managing gym operations, with complex queries for trend analysis.
-- **Electric Vehicle Database Management**: A MongoDB project with Python (PyMongo) for CRUD operations.
-
-**Additional Experience**: Used Redis for caching, Neo4j for graph database queries.
-
-**Key Skills**: Database design (SQL, NoSQL), CRUD operations, cloud integration (AWS).
 
 ## 📚 Learning & Growth
 I’m constantly exploring new methodologies and staying updated with advancements in **AI, ML, data science**, and **software development**. With an optimizer's mindset, I’m driven to enhance efficiency and performance in every project, seeking innovative ways to refine algorithms, streamline processes, and maximize impact. I enjoy **collaborating on open-source projects** and contributing to the data science community, sharing insights and solutions to advance collective knowledge in the field.
