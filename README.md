@@ -6,7 +6,7 @@ I'm a **graduate student** at **Grand Valley State University**, pursuing an **M
 ## 🛠️ Skills & Technologies
 - **Programming (Proficient):** Python, R, SQL, Java, C  
 - **Programming (Experience):** C++, Assembly, Ruby, Swift, SAS, JavaScript  
-- **Machine Learning:** Supervised & Unsupervised Learning, KNN, Decision Trees, Random Forests, Gradient Boosting, Neural Networks, Deep Learning, VAEs, Transformers  
+- **Machine Learning:** Supervised & Unsupervised Learning, KNN, Decision Trees, Random Forests, Gradient Boosting, Neural Networks, Deep Learning, VAEs, Transformers, LangChain, Agentic AI, NLP
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Tableau, Plotly, Leaflet  
 - **Statistical Techniques:** Hypothesis Testing, Regression Analysis, Cluster Analysis, Discriminant Analysis, Canonical Correlation Analysis, Bootstrapping
 - **Time Series Forecasting:** Seasonal Decomposition, Dynamic Factor Analysis, Differencing, Stationarity Testing, Forecast Modeling, Nixtla
