@@ -1,7 +1,7 @@
 # Hi, I'm Steve Meadows 👋
 
 ## 🎓 About Me
-I'm a **graduate student** at **Grand Valley State University**, pursuing an **M.S. in Data Science and Analytics**, expected to graduate in **Sring 2026**. I’m deeply passionate about leveraging **machine learning**, **data visualization**, **statistical analysis**, and **database engineering** to solve complex problems across diverse domains. My curiosity drives me to constantly explore innovative ways to apply my wide range of tools and experience—spanning programming, statistical and machine learning techniques, and database systems—to uncover insights and create impactful solutions. As an outgoing individual, I thrive on collaboration, having worked cross-functionally to address challenges and communicate complex ideas clearly to both technical and non-technical stakeholders.
+I'm a **graduate student** at **Grand Valley State University**, pursuing an **M.S. in Data Science and Analytics**, expected to graduate in **Spring 2026**. I’m deeply passionate about leveraging **machine learning**, **data visualization**, **statistical analysis**, and **database engineering** to solve complex problems across diverse domains. My curiosity drives me to constantly explore innovative ways to apply my wide range of tools and experience—spanning programming, statistical and machine learning techniques, and database systems—to uncover insights and create impactful solutions. As an outgoing individual, I thrive on collaboration, having worked cross-functionally to address challenges and communicate complex ideas clearly to both technical and non-technical stakeholders.
 
 ## 🛠️ Skills & Technologies
 - **Programming (Proficient):** Python, R, SQL, Java, C  
