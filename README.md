@@ -35,6 +35,11 @@ Following exceptional performance and demonstrated proficiency in machine learni
 
 ### 📊 Statistics & Data Visualization
 This section demonstrates my ability to extract insights through statistical analysis and impactful visualizations across sports, social issues, and business domains:
+- **[STA 631 Final Portfolio](https://steadows.github.io/STA631_portfolio.html)**
+A comprehensive statistical portfolio built with **R** and **tidymodels**, demonstrating the bridge between predictive power and inferential interpretability.
+- **Mental Health Analysis (Model Selection)**: Conducted a comparative analysis between Multiple Linear Regression and Poisson Regression. Utilized residual diagnostics to identify discrete count structures, justifying the selection of a Generalized Linear Model (GLM) over OLS.
+- **Student Performance Classification (Inference vs. Prediction)**: Engineered a Multinomial Logistic Regression model using Lasso regularization for variable selection. Addressed class imbalance with **SMOTE-NC** and performed post-selection inference to calculate Odds Ratios for critical drivers like parental expectations.
+- **Key Skills**: Cross-Validation, Residual Diagnostics, Post-Selection Inference, Handling Class Imbalance.
 - **[Gun Violence Data Analysis](https://steadows.github.io/240612_meadoant_final_project.html) 🔫**: Explored U.S. gun violence (2014–2017) with geospatial maps and statistical inference, finding a significant association between poverty and death rates (p = 0.033).
 - **[Order History DFA](https://github.com/steadows/Data-Science-Portfolio/blob/main/Statistics%20%26%20Data%20Visualization/DFA%20Timeseries%20Model%20Comparison/dfa-performance-comparison.ipynb): Time Series Forecasting 📈**: Used DFA to reduce time series dimensionality, achieving an MAE of 359,978.81 with MSTL, and demonstrating efficiency gains.
 - **[Brazilian Jiu Jitsu ADCC Analysis (Tableau)](https://github.com/steadows/Data-Science-Portfolio/tree/main/Statistics%20%26%20Data%20Visualization/Brazilian%20Jiu%20Jitsu%20ADCC%20Analysis) 🥋**: Analyzed BJJ competition trends with Tableau dashboards, revealing the rise of leg submissions and the advantage of specialized techniques.
